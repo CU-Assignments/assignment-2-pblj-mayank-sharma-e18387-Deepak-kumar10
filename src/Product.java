@@ -16,7 +16,7 @@ public class Product {
         Product product = new Product(id, name, price);
         
         product.displayDetails();
-        System.out.println("\n\nprogram by PUSHKAR [22BCS17250]");
+       
         
         scanner.close();
     }
