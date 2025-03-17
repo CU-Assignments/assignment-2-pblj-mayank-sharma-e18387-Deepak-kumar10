@@ -88,7 +88,7 @@ public class StudentInfoSystem {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Student Information System by pushkar[22bcs17250]");
+        System.out.println("Student Information System by Deepak[22bcs12942]");
         
         boolean exit = false;
         while (!exit) {
